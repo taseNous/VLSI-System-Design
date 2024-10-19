@@ -1,2 +1,1 @@
-# VLSI-System-Design
-dd
+VLSI (Very Large Scale Integration) System Design refers to the process of creating integrated circuits (ICs) by combining millions or billions of transistors on a single chip. VHDL (VHSIC Hardware Description Language) is a programming language used to model and simulate the behavior of digital systems in VLSI design. Engineers use VHDL to describe the structure and function of the hardware at different abstraction levels (e.g., behavioral, structural) before physically implementing the design on silicon, allowing for simulation, testing, and optimization before manufacturing.
